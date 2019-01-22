@@ -32,3 +32,10 @@ body {
 #home-section .card-form {
   opacity: 0.8;
 }
+
+#home-section .fas {
+  background-color: #fff;
+  color: #008ed6;
+  padding: 5px;
+  border-radius: 5px;
+}
