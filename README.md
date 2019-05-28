@@ -18,6 +18,9 @@ LoopLAB is a one page website template for social media type site.
 
 There is also implemented scroll spy for navigation and scroll up each section 
 
+## Screenshot of the page
+![](img/screencapture-looplab-project.png)
+
 ## External Resources Used
 This site was built using:
 - [Bootstrap](https://getbootstrap.com/)
